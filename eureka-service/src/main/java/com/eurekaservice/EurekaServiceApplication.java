@@ -10,7 +10,7 @@ public class EurekaServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServiceApplication.class, args);
 		System.out.println("spring porject commit");
-		System.out.println("");
+		
 	}
 
 }
