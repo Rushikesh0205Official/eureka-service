@@ -9,7 +9,7 @@ public class EurekaServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServiceApplication.class, args);
-		System.out.println("spring porject on git");
+		System.out.println("spring porject on git commit");
 	}
 
 }
